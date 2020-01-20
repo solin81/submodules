@@ -1,0 +1,6 @@
+[submodule "spring-scheduler-demo"]
+	path = spring-scheduler-demo
+	url = https://github.com/solin81/spring-scheduler-demo.git
+[submodule "spring-demo"]
+	path = spring-demo
+	url = https://github.com/solin81/spring-demo.git
